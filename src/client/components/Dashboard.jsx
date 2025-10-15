@@ -33,7 +33,7 @@ export default function Dashboard() {
         </button>
         <button 
           className="function-btn"
-          onClick={() => handleFunction(2, '#4ecdc4', 'Green')}
+          onClick={() => handleFunctions2, '#4ecdc4', 'Green')}
         >
           Function 2
         </button>
