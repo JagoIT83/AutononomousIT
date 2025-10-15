@@ -28,12 +28,12 @@ declare global {
                     'x_snc_color_contro/main': {
                         table: 'sys_ux_lib_asset'
                         id: 'e2a106c414394e1f8303277778abf2e4'
-                        deleted: true
+                        deleted: false
                     }
                     'x_snc_color_contro/main.js.map': {
                         table: 'sys_ux_lib_asset'
                         id: '69c75c2ba51c4f13b9b3aea0ab29bcee'
-                        deleted: true
+                        deleted: false
                     }
                 }
                 composite: [
