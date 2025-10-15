@@ -1,0 +1,6 @@
+{
+  "scope": "x_snc_color_contro",
+  "scopeId": "5b5e623933683e504a03bb023d5c7bed",
+  "name": "Color Contro",
+  "tsconfigPath": "./src/server/tsconfig.json"
+}
