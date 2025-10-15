@@ -33,7 +33,7 @@ export default function Dashboard() {
         </button>
         <button 
           className="function-btn"
-          onClick={() => handleFunctions2, '#4ecdc4', 'Green')}
+          onClick={() => handleFunction(2, xc, '#4ecdc4', 'Green')}
         >
           Function 2
         </button>
@@ -54,7 +54,7 @@ export default function Dashboard() {
       <div style={{ marginTop: '40px', color: 'white', textAlign: 'center' }}>
         <p>Click any function button to change the circle color!</p>
         <p style={{ fontSize: '14px', opacity: '0.8' }}>
-          Function 1: Red • Function 2: Green • Function 3: Blue • Function 4: Yellow
+          Function 1: Red • Function 2: green • Function 3: Blue • Function 4: Yellow
         </p>
       </div>
     </div>
