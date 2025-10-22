@@ -60,6 +60,7 @@ export default function LoginForm({ onLogin, error }) {
         
         <div style={{ marginTop: '20px', fontSize: '12px', color: '#666', textAlign: 'center' }}>
           Welcome to your Color Control Application!
+          
           Please insert username and password.
         </div>
       </form>
