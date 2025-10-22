@@ -59,7 +59,8 @@ export default function LoginForm({ onLogin, error }) {
         {error && <div className="error">{error}</div>}
         
         <div style={{ marginTop: '20px', fontSize: '12px', color: '#666', textAlign: 'center' }}>
-          Admin credentials: admin/admin
+          Welcome to your Color Control Application!
+          Please insert username and password.
         </div>
       </form>
     </div>
